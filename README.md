@@ -1,13 +1,12 @@
 # node-gmail-pdf-downloader
 node-gmail-pdf-downloader
 
-
-# Installation
-
 ## Install packages
 ```bash
+$ git clone git@github.com:lucaskatayama/node-gmail-pdf-downloader.git
+$ cd node-gmail-pdf-downloader/
 $ npm install
-```
+``` 
 
 ## Get Google OAuth API token
 1. Follow **STEP 1** from here: [https://developers.google.com/gmail/api/quickstart/nodejs](https://developers.google.com/gmail/api/quickstart/nodejs).
